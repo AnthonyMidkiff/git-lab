@@ -7,3 +7,7 @@ Answer 6: No commits yet. README.md and answers.md are under Changes to be commi
 Answer 7: nothing to commit, working tree clean.
 Answer 8: commit 655d67... (HEAD -> master) Author: Anthony Midkiff <am681823@ohio.edu> Date: Fri Sep 5... Initial commit
 Answer 9: Your branch is up to date with 'origin/main'. nothing to commit, working tree clean
+Answer 10: The changes I made were not reflected in the local copy.
+Answer 11: An error occurs because the update I made directly on Github was not reflected in the local copy and it does not want to override that work.
+Answer 12: Yes, the changes I made are now reflected in the local copy.
+Answer 13: . .. .git .gitignore README.md
